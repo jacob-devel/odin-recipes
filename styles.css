@@ -1,0 +1,19 @@
+body {
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+    background-color: darkgray;
+    color: #800080;
+}
+
+#title {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+#recipes {
+    font-size: 18px;
+    font-weight: bold;
+}
